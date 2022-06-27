@@ -1,0 +1,8 @@
+header {
+    width: 750px;
+}
+header hr {
+    border-top: 5px dotted pink;
+    margin-bottom: 20px;
+    display: block;
+}
