@@ -1,10 +1,21 @@
 .card {
     border-radius: 10px;
-    background-color: blue;
+    background-color: #F1DEB8;
+    padding: 20px;
+    display: flex;
+    margin-bottom: 20px;
 }
 
-.profile-photo {
+.contact-photo {
     border-radius: 50%;
     width: 150px;
     height: 150px;
+}
+
+.contact-data {
+    margin: 0 75px;
+}
+
+.contact-data .name {
+    font-weight: bold;
 }
